@@ -13,6 +13,7 @@ body {
   margin: 50px;
   border: 5px groove #f24c4c;
   border-radius: 25px;
+  overflow: hidden;
 }
 
 h1 {
