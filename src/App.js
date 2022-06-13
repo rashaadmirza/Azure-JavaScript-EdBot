@@ -4,10 +4,10 @@ import React, { useMemo } from 'react';
 
 function App() {
   // access token or secret key of the Web App Bot obtained from the azure portal
-  const azureBotToken = "q4uvYr7hNq8.EHhmKfqJT803s_sQefe-Mpovn4Vz3XCxEAiygHTgGv4"
+  const azureBotToken = "VvU97OFGQY8.s2BD80CspwpOevUz0dPgbMOKTjz3UwNiGvaXXAnu0yE"
 
   // using the createDirectLine method to create a connection with the azure web app bot.
-  const directLine = useMemo(() => createDirectLine({ token: azureBotToken }), []);
+  const directLine = useMemo(() => createDirectLine({ token: "VvU97OFGQY8.s2BD80CspwpOevUz0dPgbMOKTjz3UwNiGvaXXAnu0yE" }), []);
 
   return (
     <div className="container">
@@ -18,7 +18,7 @@ function App() {
       </div>
       <h3>Just type the keyword in the message input field and press send.</h3>
       <span>* Example Keywords: <span>
-        let, const, while, for loop, if etc *
+        let, onst, while, for loop, if etc *
       </span>
       </span>
 
