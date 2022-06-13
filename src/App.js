@@ -4,7 +4,7 @@ import React, { useMemo } from 'react';
 
 function App() {
   // access token or secret key of the Web App Bot obtained from the azure portal
-  const azureBotToken = "A-SZGw27zNA.Cl3EZoBO5yBaL1KtgVJfEimDNXMdDSwwPeg9IzARiug"
+  const azureBotToken = "q4uvYr7hNq8.EHhmKfqJT803s_sQefe-Mpovn4Vz3XCxEAiygHTgGv4"
 
   // using the createDirectLine method to create a connection with the azure web app bot.
   const directLine = useMemo(() => createDirectLine({ token: azureBotToken }), []);
