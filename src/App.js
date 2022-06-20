@@ -3,8 +3,7 @@ import ReactWebChat, { createDirectLine } from 'botframework-webchat';
 import React, { useMemo } from 'react';
 
 function App() {
-  // access token or secret key of the Web App Bot obtained from the azure portal
-  const azureBotToken = "VvU97OFGQY8.s2BD80CspwpOevUz0dPgbMOKTjz3UwNiGvaXXAnu0yE"
+
 
   // using the createDirectLine method to create a connection with the azure web app bot.
   const directLine = useMemo(() => createDirectLine({ token: "nzOWT6HUqLo.TZ-u79RcGRwXOrLrk8UXdlgmZECik-BBkYUSyUbyeqI" }), []);

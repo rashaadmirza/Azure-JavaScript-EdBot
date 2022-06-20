@@ -27,3 +27,25 @@ This is a Web Application Bot created with React.js and Microsoft Azure Web App 
 9. After the installation import ReactWebChat, { createDirectLine } from 'botframework- webchat'.
 
 10. Use the ReactWebChat and createDirectLine method to render the chatbot on the webpage.
+
+
+**Steps taken for deployment using azure devOps:**
+
+1. After creation of the create a project in azure devOps
+
+2. After creation of the project create a repository in azure devOps.
+
+3. Push all the code in the repository using git commands.
+
+4. After pushing the code create a pipeline in azure devOps.
+
+5. After creation of the pipeline release the pipeline.
+
+6. Wait the the app is deployed.
+7. After successful deployment the app will be available.
+
+**Steps taken for deployment using azure devOps:**
+URL for the project demo : http://project-bot-by-obaid.azurewebsites.net/
+
+URL for video tutorial: https://1drv.ms/v/s!AsCVvHj3qTGIhbQA_15pbwiKky-1rg?e=KFQOR7
+
