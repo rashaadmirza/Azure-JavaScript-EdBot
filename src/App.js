@@ -13,7 +13,7 @@ function App() {
     <div className="container">
       <h1>Javascript Chatbot Using Microsoft Azure Bot Services</h1>
       <div className="chatbox">
-        {/* using the ReactWebChat compoent from botframework-webchat library*/}
+        {/* using the ReactWebChat component from botframework-webchat library*/}
         <ReactWebChat directLine={directLine} userID="mdobaid311@gmail.com" />
       </div>
       <h3>Just type the keyword in the message input field and press send.</h3>
