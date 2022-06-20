@@ -7,18 +7,18 @@ function App() {
   const azureBotToken = "VvU97OFGQY8.s2BD80CspwpOevUz0dPgbMOKTjz3UwNiGvaXXAnu0yE"
 
   // using the createDirectLine method to create a connection with the azure web app bot.
-  const directLine = useMemo(() => createDirectLine({ token: "VvU97OFGQY8.s2BD80CspwpOevUz0dPgbMOKTjz3UwNiGvaXXAnu0yE" }), []);
+  const directLine = useMemo(() => createDirectLine({ token: "nzOWT6HUqLo.TZ-u79RcGRwXOrLrk8UXdlgmZECik-BBkYUSyUbyeqI" }), []);
 
   return (
     <div className="container">
       <h1>Javascript Chatbot Using Microsoft Azure Bot Services</h1>
       <div className="chatbox">
-        {/* using the ReactWebChat component from botframework-webchat library*/}
+        {/* using the ReactWebChat compoent from botframework-webchat library*/}
         <ReactWebChat directLine={directLine} userID="mdobaid311@gmail.com" />
       </div>
       <h3>Just type the keyword in the message input field and press send.</h3>
       <span>* Example Keywords: <span>
-        let, onst, while, for loop, if etc *
+        let cost, while, for loop, if etc *
       </span>
       </span>
 
