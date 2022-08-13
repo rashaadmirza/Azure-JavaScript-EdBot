@@ -1,8 +1,8 @@
-**This App is created by Mohammed obaid.**
+**© Rashaad Mirza**
 
-  
 
-This is a Web Application Bot created with React.js and Microsoft Azure Web App Bot, QnA maker and will be deployed on web using Azure Deployment services.
+
+This is a web application bot created with React.js and Microsoft Azure Web App Bot, and QnA Maker. It will be deployed using Azure Deployment Services.
 
   
 
@@ -42,10 +42,9 @@ This is a Web Application Bot created with React.js and Microsoft Azure Web App 
 5. After creation of the pipeline release the pipeline.
 
 6. Wait the the app is deployed.
-7. After successful deployment the app will be available.
+
+7 After successful deployment the app will be available.
 
 **Steps taken for deployment using azure devOps:**
-URL for the project demo : http://project-bot-by-obaid.azurewebsites.net/
-
+URL for project demo : http://project-bot-by-obaid.azurewebsites.net/
 URL for video tutorial: https://1drv.ms/v/s!AsCVvHj3qTGIhbQA_15pbwiKky-1rg?e=KFQOR7
-
