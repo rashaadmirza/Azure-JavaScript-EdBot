@@ -43,7 +43,7 @@ This is a web application bot created with React.js and Microsoft Azure Web App 
 
 6. Wait the the app is deployed.
 
-7 After successful deployment the app will be available.
+7. After successful deployment the app will be available.
 
 **Steps taken for deployment using azure devOps:**
 URL for project demo : http://project-bot-by-obaid.azurewebsites.net/
