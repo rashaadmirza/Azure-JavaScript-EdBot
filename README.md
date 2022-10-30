@@ -46,6 +46,6 @@ This is a web application bot created with React.js and Microsoft Azure Web App 
 7. After its successful deployment, the app will be available.
 
 
-URL for project demo : http://project-bot-by-obaid.azurewebsites.net/
+Project Demo URL: http://project-bot-by-obaid.azurewebsites.net/
 
-URL for video tutorial: https://1drv.ms/v/s!AsCVvHj3qTGIhbQA_15pbwiKky-1rg?e=KFQOR7
+Project Demo Video URL: https://1drv.ms/v/s!AgUhe1vig0JzcCSAs_f8pvB2rkA?e=cayLdI
